@@ -14,8 +14,8 @@ Clonar el repositorio en tu equipo:
 ```cmd
 > cd <folder Path>
 > git clone https://github.com/DomingoAlvarez99/videoclub-hexagonal-sync
-- Importar el proyecto mediante IntelliJ IDEA
 ```
+- Importar el proyecto mediante IntelliJ IDEA
 
 ## 🗄️ Script base de datos
    ```sql
