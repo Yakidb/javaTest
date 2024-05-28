@@ -16,13 +16,14 @@ Clonar el repositorio en tu equipo:
 - Importar el proyecto mediante IntelliJ IDEA
 
 ## 🗄️ Script base de datos
-   `sql
+   ```sql
     USE test;
     CREATE TABLE address (
         id BIGINT AUTO_INCREMENT PRIMARY KEY,
         title VARCHAR(255),
         description TEXT
-    );`
+    );
+```
 
 
 🚀 Ejecución
