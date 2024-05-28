@@ -1,18 +1,21 @@
-#Addresses
+# Addresses
+
 Este proyecto es un ejemplo práctico de un microservicio para el desarrollo de un sistema de gestion de direcciones una Arquitectura Hexagonal.
 
-##Tecnologías necesarias
+## Tecnologías necesarias
+
 Java 
 SpringBoot 
 MySQL
 
-##⚙️ Instalación del proyecto
+## ⚙️ Instalación del proyecto
+
 Clonar el repositorio en tu equipo:
 > cd <folder path>
 > git clone https://github.com/DomingoAlvarez99/videoclub-hexagonal-sync
 Importar el proyecto mediante IntelliJ IDEA
 
-🗄️ Script base de datos
+## 🗄️ Script base de datos
 USE test;
 CREATE TABLE address (
     id BIGINT AUTO_INCREMENT PRIMARY KEY,
