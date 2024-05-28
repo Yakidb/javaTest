@@ -39,4 +39,7 @@ Clonar el repositorio en tu equipo:
 ```
 
 ✔️ Testing
-Ejecutar tests unitarios: > mvnw.cmd test
+Ejecutar tests unitarios: 
+```cmd
+> mvnw.cmd test
+```
