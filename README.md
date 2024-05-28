@@ -28,8 +28,15 @@ Clonar el repositorio en tu equipo:
 ```
 
 
-🚀 Ejecución
-Desplegar el proyecto localmente: > mmvnw.cmd clean install
-Arrancar el proyecto: > mvnw.cmd spring-boot:run -Dspring-boot.run.profiles=AddressesApplication -DskipTests
+## 🚀 Ejecución
+- Desplegar el proyecto localmente:
+```cmd 
+> mmvnw.cmd clean install
+```
+- Arrancar el proyecto:
+```cmd
+> mvnw.cmd spring-boot:run -Dspring-boot.run.profiles=AddressesApplication -DskipTests
+```
+
 ✔️ Testing
 Ejecutar tests unitarios: > mvnw.cmd test
