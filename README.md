@@ -4,9 +4,9 @@ Este proyecto es un ejemplo práctico de un microservicio para el desarrollo de 
 
 ## Tecnologías necesarias
 
-Java 
-SpringBoot 
-MySQL
+**Java** 
+**SpringBoot** 
+**MySQL**
 
 ## ⚙️ Instalación del proyecto
 
