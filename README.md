@@ -1,6 +1,6 @@
 # Addresses
 
-Este proyecto es un ejemplo práctico de un microservicio para el desarrollo de un sistema de gestion de direcciones una Arquitectura Hexagonal.
+Este proyecto es un ejemplo práctico de un microservicio para el desarrollo de un sistema de gestion de direcciones en una Arquitectura Hexagonal.
 
 ## Tecnologías necesarias
 
@@ -11,7 +11,7 @@ Este proyecto es un ejemplo práctico de un microservicio para el desarrollo de 
 ## ⚙️ Instalación del proyecto
 
 Clonar el repositorio en tu equipo:
-- > cd <folderPath>
+- > cd `<folder Path>`
 - > git clone https://github.com/DomingoAlvarez99/videoclub-hexagonal-sync
 - Importar el proyecto mediante IntelliJ IDEA
 
